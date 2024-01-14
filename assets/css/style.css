@@ -33,7 +33,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: white;
+    color: #FFFFFF;
 }
 
 h1 {
@@ -49,6 +49,10 @@ h1 {
 
 #nav-menu > li {
     margin-bottom: 0.5em;
+}
+
+.active {git
+    border-bottom: 1px solid #FFFFFF;
 }
 
 /* Main content */

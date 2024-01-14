@@ -74,6 +74,15 @@ nav {
     display: block;
 }
 
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+    color: #FFFFFF;
+}
+
 /* Main content */
 main {
     background-color: lightblue;

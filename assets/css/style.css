@@ -22,7 +22,12 @@ body {
 
 /* Header */
 header {
-    background-color: lightcoral;
+    background-color: #6D41A8;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
 }
 
 /* Main content */

@@ -38,6 +38,10 @@ header a {
     color: #FFFFFF;
 }
 
+header h1 {
+    padding: 10px 0 10px 0;
+}
+
 h1 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;

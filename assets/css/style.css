@@ -120,6 +120,15 @@ footer {
 /* Media query: Large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
 
+    .map-wrapper {
+        display: block;
+        padding: 10px 0 0 10px;
+    }
+        
+    .map {
+        width: 50%;
+        height: 200px;
+    }
 
 }
 
@@ -146,10 +155,6 @@ footer {
         display: none;
     }
 
-    .map-wrapper {
-        display: block;
-        padding: 10px 0 0 10px;
-    }
 }
 
 /* Media query: laptops and larger (992px and up) */

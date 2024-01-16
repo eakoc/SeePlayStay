@@ -97,7 +97,8 @@ main {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: #6D41A8;
+    color: #FFFFFF;
 }
 
 /* Media query: Large or landscape phones (576px and up) */

@@ -101,6 +101,18 @@ footer {
     color: #FFFFFF;
 }
 
+.social-media {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 10px 0 10px 0;
+}
+
+.social-media i {
+    color: #ffffff;
+    font-size: 200%;
+}
+
 /* Media query: Large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
 

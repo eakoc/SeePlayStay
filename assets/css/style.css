@@ -101,14 +101,44 @@ footer {
 }
 
 /* Media query: Large or landscape phones (576px and up) */
-@media screen and (min-width: 576px) {}
+@media screen and (min-width: 576px) {
+
+
+}
 
 /* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #nav-menu{
+        display: flex;
+    }
+
+    #nav-menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+}
 
 /* Media query: laptops and larger (992px and up) */
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+
+
+}
 
 /* Media query: laptops and larger (1200px and up) */
-@media screen and (min-width: 1200px) {}
+@media screen and (min-width: 1200px) {
+
+
+}
 

@@ -113,6 +113,10 @@ footer {
     font-size: 200%;
 }
 
+.map-wrapper {
+    display: none;
+}
+
 /* Media query: Large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
 
@@ -140,6 +144,10 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    .map-wrapper {
+        display: block;
     }
 }
 

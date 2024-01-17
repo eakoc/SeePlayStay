@@ -97,7 +97,10 @@ main {
 
 /* Feedback Form */
 
-
+#form-page {
+    background-image: url(../images/Form-Background-Image.png);
+    background-size: cover;
+}
 
 /* Footer */
 footer {

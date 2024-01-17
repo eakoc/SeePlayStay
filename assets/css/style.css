@@ -95,6 +95,10 @@ main {
     margin-top: 48px;
 }
 
+/* Feedback Form */
+
+
+
 /* Footer */
 footer {
     background-color: #6D41A8;
@@ -119,7 +123,7 @@ footer {
 
 /* Media query: Large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
-
+fmai
     .map-wrapper {
         display: block;
         padding: 10px 0 0 10px;

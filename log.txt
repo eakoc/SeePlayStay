@@ -1,0 +1,233 @@
+commit 0b68485c32dc2864ed0f946cc2d0ed83acc0d577
+Author: eakoc <>
+Date:   Wed Jan 17 12:48:43 2024 +0000
+
+    Fix: bug causing form textarea to expand beyond viewport width
+
+commit 3f7384d3457da729cc345d420d1e96f9be2fbd1f
+Author: eakoc <>
+Date:   Wed Jan 17 01:00:38 2024 +0000
+
+    Fix: Remove stray text in CSS causing map-wrapper to remain hidden
+
+commit e17021cd0b7c822ee1b1efb36368b92ca68081fe
+Author: eakoc <>
+Date:   Wed Jan 17 00:58:41 2024 +0000
+
+    Add background image to form page and basic styling
+
+commit 88b3a2a93ef52d8334e0433217b07a193dc0c197
+Author: eakoc <>
+Date:   Wed Jan 17 00:47:07 2024 +0000
+
+    Add form content to feedback page
+
+commit f37b69d3bb2d74aa54d1a2dc9b3a33a882065a4a
+Author: eakoc <>
+Date:   Tue Jan 16 18:29:20 2024 +0000
+
+    Update gmaps embed to appear from 576px and up, updated size styling
+
+commit dd3acf84c98151cd94c001ef6c84300943ec7272
+Author: eakoc <>
+Date:   Tue Jan 16 18:15:54 2024 +0000
+
+    add map embed to all pages
+
+commit a1f4260f9f6d0e73dd7ad23c2798c01847a971e6
+Author: eakoc <>
+Date:   Tue Jan 16 18:05:08 2024 +0000
+
+    add google maps embed to footer, hidden on mobile
+
+commit b8f75e26d5a56b80cb958e2f1c6ddd33a2476a1c
+Author: eakoc <>
+Date:   Tue Jan 16 17:59:43 2024 +0000
+
+    add map wrapper section, wrapped social media list with section
+
+commit 065d86df9b5da9d3dd2e83c0d4c289e4db6cbaff
+Author: eakoc <>
+Date:   Tue Jan 16 17:49:18 2024 +0000
+
+    Add icons to social links with fontawesome
+
+commit 8b57bc9eaf885bd70132647a8eb62b0432b8673e
+Author: eakoc <>
+Date:   Tue Jan 16 17:22:52 2024 +0000
+
+    Add social media section with links and placeholder text
+
+commit a4702974d9d09a57066e2691fef95a8027b2f115
+Author: eakoc <>
+Date:   Tue Jan 16 16:51:21 2024 +0000
+
+    Add background and text color styles to footer
+
+commit 4f0730a422b8d3cccc50216e2115a5964faa159f
+Author: eakoc <>
+Date:   Tue Jan 16 15:41:20 2024 +0000
+
+    Add Aria Label for each nav item
+
+commit b7df7048148f777e8d824c0b5ea381ac2aaa9d8c
+Author: eakoc <>
+Date:   Tue Jan 16 15:33:40 2024 +0000
+
+    Add visual feedback to nav menu using hover selector for laptops and larger
+
+commit 6f6cbc1218b268f4e77eff7f7dd421bee4549fd3
+Author: eakoc <>
+Date:   Tue Jan 16 15:30:21 2024 +0000
+
+    Remove redundant margin from tablet  media query as added while testing
+
+commit 31e43063e0eb98cb66e4bbd8ec63ec57fe078eea
+Author: eakoc <>
+Date:   Tue Jan 16 15:27:25 2024 +0000
+
+    Update padding for larger screen sizes as main partially hidden
+
+commit 2e49f00d5b4031d34c033d774609bc81803b9c04
+Author: eakoc <>
+Date:   Tue Jan 16 15:15:32 2024 +0000
+
+    Style nav element for larger devices, checkbox label hidden as not needed
+
+commit 439f521b190a39c6170fcf4220f80c153d5f4a92
+Author: eakoc <>
+Date:   Tue Jan 16 15:09:17 2024 +0000
+
+    Add media queries for generic breakpoints
+
+commit 7cc875b9b46dad986d11cc702051ec93e5a97d4f
+Author: eakoc <>
+Date:   Tue Jan 16 15:06:27 2024 +0000
+
+    Add padding top and bottom to logo
+
+commit d3d9739a8f1c559029890557beedd754aa8e3206
+Author: eakoc <>
+Date:   Tue Jan 16 15:03:22 2024 +0000
+
+    Fix: add padding to main as blocked by header
+
+commit e5e2b4791a7747ae4ddc9893b6280d55053768e5
+Author: eakoc <>
+Date:   Tue Jan 16 14:56:48 2024 +0000
+
+    Add fontawesome script to head for all pages
+
+commit 2122cca52a48bf3deb90169e2ed213e369bd941b
+Author: eakoc <>
+Date:   Sun Jan 14 20:10:18 2024 +0000
+
+    Add icon to nav toggle label and styled to match logo
+
+commit 1d4049efc7ba9ce9c0f00eda1e7fe061be862cd9
+Author: eakoc <>
+Date:   Sun Jan 14 19:44:11 2024 +0000
+
+    add nav checkbox toggle  to all pages, updated styling to accomodate
+
+commit 5665921246b7f08f68eff8a26a0c96ef9bbc4536
+Author: eakoc <>
+Date:   Sun Jan 14 19:31:25 2024 +0000
+
+    Add navbar styling for drop-down
+
+commit dc3d5693cfd37596adcc0c9fd4cb2b3843fe64e4
+Author: eakoc <>
+Date:   Sun Jan 14 19:23:56 2024 +0000
+
+    Add active class to relevant nav elements and added styling for active page
+
+commit 58ec103d9e9d7aea3c93f70b2395a5bfbd4765c9
+Author: eakoc <>
+Date:   Sun Jan 14 19:11:06 2024 +0000
+
+    Updated styling for list items, removed style type
+
+commit 4f8508a9a91c257a1013ccd16fb2835817127a69
+Author: eakoc <>
+Date:   Sun Jan 14 18:44:42 2024 +0000
+
+    Fixed header position, added box shadow
+
+commit f44e4b39398983d2086fe9da5f54c57024b9f97f
+Author: eakoc <>
+Date:   Sun Jan 14 18:40:39 2024 +0000
+
+    Update header background and text color. Remove text decoration
+
+commit 75d57076075a226f4d4dee96fc168ac28307e17e
+Author: eakoc <>
+Date:   Sun Jan 14 18:29:09 2024 +0000
+
+    Add logo with link to header of all pages
+
+commit 6e72f90d52052a5dd24b28db317ef302304d3e01
+Author: eakoc <>
+Date:   Sun Jan 14 18:16:56 2024 +0000
+
+    Add font to body styles, added logo with link to index.html
+
+commit be6204c9c4bada4345fa805f015ade2a11e2b859
+Author: eakoc <>
+Date:   Sun Jan 14 18:05:23 2024 +0000
+
+    Add fonts montserrat and roboto
+
+commit 56b878955b1695b4abad774c0a2b140ceb518587
+Author: eakoc <>
+Date:   Sat Jan 13 15:57:42 2024 +0000
+
+    Add meta tags for search engines. Updated lang to en-US
+
+commit 43c07ad3c56c8d91aa836e6a524f93f856371621
+Author: eakoc <>
+Date:   Sun Dec 31 21:53:35 2023 +0000
+
+    Add nav element to each page and linked
+
+commit 12c59a072ab7e5fd1c541cc6e10679ce0f06d164
+Author: eakoc <>
+Date:   Sun Dec 31 21:46:09 2023 +0000
+
+    Readme updated with favicon details
+
+commit 2d0d03bc23517b550ab7724b209c265918a150a1
+Author: eakoc <>
+Date:   Sun Dec 31 21:42:56 2023 +0000
+
+    Use flex styles for main to take surplus space and push footer down
+
+commit d31017b7dfc633ad4440182bf7c474ef9337e3e1
+Author: eakoc <>
+Date:   Sun Dec 31 21:39:14 2023 +0000
+
+    Add wildcard selector to remove default browser styling
+
+commit 9eaa79a0d32ae6ee2ca96a2c9a25f18bac4b9b6c
+Author: eakoc <>
+Date:   Sun Dec 31 21:37:03 2023 +0000
+
+    Add basic styling to separate content, link css file
+
+commit 7c3820a6b65df310aa7c6e4fa5e7684dc22b648d
+Author: eakoc <>
+Date:   Sun Dec 31 21:31:22 2023 +0000
+
+    Add favicon files and link in head
+
+commit cebf8daa11641d9af5b735c196a461de5bb6d311
+Author: eakoc <>
+Date:   Sun Dec 31 21:15:17 2023 +0000
+
+    Add pages and boilerplate html
+
+commit 2f561056d3b3c32c6c1c59de7da6530f8e5f6d42
+Author: eakoc <96194207+eakoc@users.noreply.github.com>
+Date:   Sun Dec 31 20:47:57 2023 +0000
+
+    Initial commit

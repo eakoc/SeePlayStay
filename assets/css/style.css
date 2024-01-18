@@ -219,6 +219,23 @@ fieldset {
     padding: 0 5px 0 5px;
 }
 
+.button-spacing {
+    margin: 0 0 0 20px;
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #6D41A8;
+    color: #FFFFFF;
+}
+
+form p {
+    padding: 10px 0 0 0;
+}
+
+form h3 {
+    padding: 10px 0 10px 0;
+}
+
 
 /* Footer */
 footer {

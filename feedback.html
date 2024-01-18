@@ -44,15 +44,15 @@
             <form action="https://formdump.codeinstitute.net" method="POST" id="feedback-form">
                 <h2 class="form-spacing">Please leave us your feedback! <i class="fa-solid fa-gamepad"></i></h2>
                 <fieldset id="your-details" class="form-spacing">
-                    <legend>Your Details</legend>
-                    <label for="name-field" class="details-field">Name</label>
+                    <legend><h3>Your Details</h3></legend>
+                    <label for="name-field" class="details-field">Name:</label>
                     <input id="name-field" type="text" name="full-name" placeholder="Your Name" required class="text-input">
                     <br>
-                    <label for="email-field" class="details-field">Email</label>
+                    <label for="email-field" class="details-field">Email:</label>
                     <input id="email-field" type="email" name="email" placeholder="Your Email" required class="text-input">
                 </fieldset>
                 <fieldset id="platform-preference" class="form-spacing">
-                    <legend>Gaming Preference</legend>
+                    <legend><h3>Gaming Preference</h3></legend>
                     <label for="platform" class="details-field">Preferred Platform</label>
                     <select id="platform" name="platform">
                         <option value="Select Platform">Select Platform</option>
@@ -64,23 +64,26 @@
                     </select>
                 </fieldset>
                 <fieldset id="user-feedback" class="form-spacing">
-                    <legend>User Feedback</legend>
+                    <legend><h3>User Feedback</h3></legend>
                     <p>How would you rate your experience visiting See Play Stay?</p>
                     <br>
-                    <input id="1" name="user-experience" value="1/5" type="radio" required>
-                    <label for="1">1/5</label>
-                    <input id="2" name="user-experience" value="2/5" type="radio" required>
-                    <label for="2">2/5</label>
-                    <input id="3" name="user-experience" value="3/5" type="radio" required>
-                    <label for="3">3/5</label>
-                    <input id="4" name="user-experience" value="4/5" type="radio" required>
-                    <label for="4">4/5</label>
-                    <input id="5" name="user-experience" value="5/5" type="radio" required>
-                    <label for="5">5/5</label>
+                    <input id="1" name="user-experience" value="1" type="radio" required>
+                    <label for="1">1</label>
+                    <input id="2" name="user-experience" value="2" type="radio" required>
+                    <label for="2">2</label>
+                    <input id="3" name="user-experience" value="3" type="radio" required>
+                    <label for="3">3</label>
+                    <input id="4" name="user-experience" value="4" type="radio" required>
+                    <label for="4">4</label>
+                    <input id="5" name="user-experience" value="5" type="radio" required>
+                    <label for="5">5</label>
                     <br>
                     <p>Please leave any suggestions you have for us in the box below! (Max 1000 characters)</p>
-                    <br>
                     <textarea id="suggestions" rows="5" cols="30" name="suggestions" maxlength="1000" placeholder="Type your feedback here...." class="text-input"></textarea>
+                </fieldset>
+                <fieldset id="form-button">
+                    <input type="submit" id="submit" value="Submit" class="button-spacing">
+                    <input type="reset" id="reset" value="Clear" class="button-spacing">
                 </fieldset>
             </form>
         </section>

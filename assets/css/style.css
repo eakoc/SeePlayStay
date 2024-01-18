@@ -137,6 +137,10 @@ main div {
     padding: 20px 0 20px 0;
 }
 
+.page-heading {
+    text-align: center;
+}
+
 p {
     text-align: left;
     padding: 20px 0 20px 5px;

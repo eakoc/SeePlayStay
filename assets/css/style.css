@@ -200,6 +200,14 @@ p {
     background-size: cover;
 }
 
+#feedback-form {
+    margin: 30px;
+    position: 75%;
+    width: 90vw;
+    background-color: rgba(109, 65, 168, .7);
+    color: #FFFFFF;
+}
+
 
 /* Footer */
 footer {

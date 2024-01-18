@@ -40,48 +40,49 @@
     </header>
 
     <main id="form-page">
-        <section id="feedback-form">
-            <form action="https://formdump.codeinstitute.net" method="POST">
-            <fieldset id="your-details">
-                <legend>Your Details</legend>
-                <input id="name-field" type="text" name="full-name" placeholder="Your Name" required>
-                <label for="name-field" class="details-field">Name</label>
-                <input id="email-field" type="email" name="email" placeholder="Your Email" required>
-                <label for="email-field" class="details-field">Email</label>
-                <input id="contact-consent" type="checkbox" name="Can-contact">
-                <label for="contact-consent">Do we have your permission to reach out to you in relation to your feedback?</label>
-            </fieldset>
-            <fieldset id="platform-preference">
-                <legend>Gaming Preference</legend>
-                <label for="platform" class="details-field">Preferred Platform</label>
-                <select id="platform" name="platform">
-                    <option value="Select Platform">Select Platform</option>
-                    <option value="Android">Android</option>
-                    <option value="iOS">iOS</option>
-                    <option value="Xbox">Xbox</option>
-                    <option value="PlayStation">PlayStation</option>
-                    <option value="PC">PC</option>
-                </select>
-            </fieldset>
-            <fieldset id="user-feedback">
-                <legend>User Feedback</legend>
-                <p>How would you rate your experience visiting See Play Stay?</p>
-                <br>
-                <input id="1" name="user-experience" value="1/5" type="radio" required>
-                <label for="1">1/5</label>
-                <input id="2" name="user-experience" value="2/5" type="radio" required>
-                <label for="2">2/5</label>
-                <input id="3" name="user-experience" value="3/5" type="radio" required>
-                <label for="3">3/5</label>
-                <input id="4" name="user-experience" value="4/5" type="radio" required>
-                <label for="4">4/5</label>
-                <input id="5" name="user-experience" value="5/5" type="radio" required>
-                <label for="5">5/5</label>
-                <br>
-                <p>Please leave any suggestions you have for us in the box below! (Max 1000 characters)</p>
-                <br>
-                <textarea id="suggestions" rows="5" cols="40" name="suggestions" maxlength="1000" placeholder="Type your feedback here...."></textarea>
-            </fieldset>
+        <section id="feedback">
+            <form action="https://formdump.codeinstitute.net" method="POST" id="feedback-form">
+                <h2>Please leave us your feedback! <i class="fa-solid fa-gamepad"></i></h2>
+                <fieldset id="your-details">
+                    <legend>Your Details</legend>
+                    <input id="name-field" type="text" name="full-name" placeholder="Your Name" required>
+                    <label for="name-field" class="details-field">Name</label>
+                    <input id="email-field" type="email" name="email" placeholder="Your Email" required>
+                    <label for="email-field" class="details-field">Email</label>
+                    <input id="contact-consent" type="checkbox" name="Can-contact">
+                    <label for="contact-consent">Do we have your permission to reach out to you in relation to your feedback?</label>
+                </fieldset>
+                <fieldset id="platform-preference">
+                    <legend>Gaming Preference</legend>
+                    <label for="platform" class="details-field">Preferred Platform</label>
+                    <select id="platform" name="platform">
+                        <option value="Select Platform">Select Platform</option>
+                        <option value="Android">Android</option>
+                        <option value="iOS">iOS</option>
+                        <option value="Xbox">Xbox</option>
+                        <option value="PlayStation">PlayStation</option>
+                        <option value="PC">PC</option>
+                    </select>
+                </fieldset>
+                <fieldset id="user-feedback">
+                    <legend>User Feedback</legend>
+                    <p>How would you rate your experience visiting See Play Stay?</p>
+                    <br>
+                    <input id="1" name="user-experience" value="1/5" type="radio" required>
+                    <label for="1">1/5</label>
+                    <input id="2" name="user-experience" value="2/5" type="radio" required>
+                    <label for="2">2/5</label>
+                    <input id="3" name="user-experience" value="3/5" type="radio" required>
+                    <label for="3">3/5</label>
+                    <input id="4" name="user-experience" value="4/5" type="radio" required>
+                    <label for="4">4/5</label>
+                    <input id="5" name="user-experience" value="5/5" type="radio" required>
+                    <label for="5">5/5</label>
+                    <br>
+                    <p>Please leave any suggestions you have for us in the box below! (Max 1000 characters)</p>
+                    <br>
+                    <textarea id="suggestions" rows="5" cols="40" name="suggestions" maxlength="1000" placeholder="Type your feedback here...."></textarea>
+                </fieldset>
             </form>
         </section>
     </main>

@@ -131,7 +131,7 @@ main div {
     justify-content: center;
 }
 
-h2 {
+.content-heading {
     text-align: center;
     padding: 20px 0 20px 0;
 }
@@ -141,13 +141,37 @@ p {
     padding: 20px 0 20px 5px;
 }
 
+/* Hero Section */
+#hero {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    background-image: url(../images/Hero-Image.jpeg);
+    background-size: cover;
+    flex: 1 0 auto;
+}
+
+#hero-text {
+    background-color: rgba(109, 65, 168, .7);
+    font-size: 130%;
+    position: absolute;
+    top: 90px;
+    left: 10px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    border-radius: 10px 10px 10px 10px;
+    color: #FFFFFF;
+}
+
 /* Feedback Form */
 
 #form-page {
     background-image: url(../images/Form-Background-Image.png);
     background-size: cover;
-    color: #ffffff;
 }
+
 
 /* Footer */
 footer {

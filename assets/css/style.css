@@ -341,6 +341,11 @@ footer {
         width: 50%;
     }
 
+    #feedback-form {
+        width: 40vw;
+
+    }
+
 }
 
 /* Media query: laptops and larger (992px and up) */
@@ -352,11 +357,5 @@ footer {
     .about-button:hover {
         background-color: #4C8077;
     }
-}
-
-/* Media query: laptops and larger (1200px and up) */
-@media screen and (min-width: 1200px) {
-
-
 }
 

@@ -42,17 +42,16 @@
     <main id="form-page">
         <section id="feedback">
             <form action="https://formdump.codeinstitute.net" method="POST" id="feedback-form">
-                <h2>Please leave us your feedback! <i class="fa-solid fa-gamepad"></i></h2>
-                <fieldset id="your-details">
+                <h2 class="form-spacing">Please leave us your feedback! <i class="fa-solid fa-gamepad"></i></h2>
+                <fieldset id="your-details" class="form-spacing">
                     <legend>Your Details</legend>
-                    <input id="name-field" type="text" name="full-name" placeholder="Your Name" required class="text-input">
                     <label for="name-field" class="details-field">Name</label>
-                    <input id="email-field" type="email" name="email" placeholder="Your Email" required class="text-input">
+                    <input id="name-field" type="text" name="full-name" placeholder="Your Name" required class="text-input">
+                    <br>
                     <label for="email-field" class="details-field">Email</label>
-                    <input id="contact-consent" type="checkbox" name="Can-contact" class="text-input">
-                    <label for="contact-consent">Do we have your permission to reach out to you in relation to your feedback?</label>
+                    <input id="email-field" type="email" name="email" placeholder="Your Email" required class="text-input">
                 </fieldset>
-                <fieldset id="platform-preference">
+                <fieldset id="platform-preference" class="form-spacing">
                     <legend>Gaming Preference</legend>
                     <label for="platform" class="details-field">Preferred Platform</label>
                     <select id="platform" name="platform">
@@ -64,7 +63,7 @@
                         <option value="PC">PC</option>
                     </select>
                 </fieldset>
-                <fieldset id="user-feedback">
+                <fieldset id="user-feedback" class="form-spacing">
                     <legend>User Feedback</legend>
                     <p>How would you rate your experience visiting See Play Stay?</p>
                     <br>
@@ -81,7 +80,7 @@
                     <br>
                     <p>Please leave any suggestions you have for us in the box below! (Max 1000 characters)</p>
                     <br>
-                    <textarea id="suggestions" rows="5" cols="40" name="suggestions" maxlength="1000" placeholder="Type your feedback here...." class="text-input"></textarea>
+                    <textarea id="suggestions" rows="5" cols="30" name="suggestions" maxlength="1000" placeholder="Type your feedback here...." class="text-input"></textarea>
                 </fieldset>
             </form>
         </section>

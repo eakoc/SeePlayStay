@@ -39,7 +39,8 @@ header a {
 }
 
 header h1 {
-    padding: 5px 0 5px 0;
+    padding: 10px 0 10px 0;
+    font-size: 0.9em;
 }
 
 h1 {
@@ -83,7 +84,7 @@ nav {
 }
 
 .nav-toggle-label {
-    font-size: 2rem;
+    font-size: 0.9em;
     color: #FFFFFF;
 }
 
@@ -92,7 +93,7 @@ main {
     background-color: #FFFFFF;
     /* Makes main take up surplus space pushing footer down */
     flex: 1 0 auto;
-    margin-top: 48px;
+    margin-top: 38px;
     color: #3a3a3a;
 }
 
@@ -221,6 +222,9 @@ footer {
 .map-wrapper {
     display: none;
 }
+
+/* Media query: Medium sized mobile phones (375px and up) */
+
 
 /* Media query: Large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {

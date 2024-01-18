@@ -1,3 +1,189 @@
+commit 6291baab00db58b601ac9862baed9b9ce7eb6315
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 22:45:12 2024 +0000
+
+    Add final content to play page, images and text updated
+
+commit 9040749f8d4641dc978cfdba84893d93b4f7cdc8
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 22:24:43 2024 +0000
+
+    fix: re-upload form background image in webp to increase performance
+
+commit 8ebf8e4f38cb98deee2ecca55b4568180818bc1d
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 22:23:02 2024 +0000
+
+    add final styling to form
+
+commit f8c10711d38c23d1d4185b87a5f955be56f31225
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 22:03:04 2024 +0000
+
+    Add additional form styling, remove experience rating for user experience
+
+commit 8b9c6f189635c813bc02892b3d51c28935440ea9
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 14:42:33 2024 +0000
+
+    add basic styling to form
+
+commit a87db1fbec19dfabf02fc6eebcc75bfbe05af069
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 13:58:58 2024 +0000
+
+    Update sizing and padding of map element in footer
+
+commit bb23138cff81134ab21ba9f96ff6ff2faa167588
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 13:31:06 2024 +0000
+
+    remove contact us section from footer
+
+commit a3ee0ba23fdc6bc003e66ac4ada9807142246fa4
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 12:40:23 2024 +0000
+
+    Add contact-us section to footer, resolved spelling mistakes in paragraphs
+
+commit e4a92746f47778ee0f6cd00a283e635872cab298
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 12:04:18 2024 +0000
+
+    Update 375 media query to make font larger in header for larger devices, increased margin
+
+commit 36532e7a79f2fc73498f0b95054890261ca38610
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 11:58:35 2024 +0000
+
+    Adjusted header font sizing for smaller devices, updated padding for main, media query added for medium devices
+
+commit 7fa36e55f225abf2bb9eb28649ea029677904b69
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 11:53:34 2024 +0000
+
+    Add styling for links on home page to make buttons
+
+commit 72c465396f0907343c285f1df76e6e0b39eb4b8a
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 11:34:03 2024 +0000
+
+    Add styling to about us background and text
+
+commit 6f61860b70464babefeec794c2765bc8d6826ef6
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 11:07:45 2024 +0000
+
+    Add about us content
+
+commit a33fded0cab7ef1d07033b90c1217f23b25fb128
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 10:43:15 2024 +0000
+
+    Update styling of hero image text, color and background color
+
+commit 1a21fadc4add5055694906521ae583d2bf3551c5
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 23:44:42 2024 +0000
+
+    add hero image section, upload hero image
+
+commit 646410e1a23da96a8a082bdc52957088f4909cb1
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 19:03:53 2024 +0000
+
+    Fix: Update gmap embed on all pages to make it interactive with new embed code
+
+commit f94d8a1cd65fc95e88389fe839c797eb9898070b
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 18:52:21 2024 +0000
+
+    Add images for see page and updated placeholder images
+
+commit dfd5fb3ca5f0eae564623f4bddb7f441281062b4
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 18:44:42 2024 +0000
+
+    updated remaining content on see page
+
+commit 891814599cb32e896d2904bee6e73de94d1c0e2a
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 18:23:32 2024 +0000
+
+    Add updated content to second div in main -see page
+
+commit f6b167372c63e50cabbc63cd2011475f6a57b8e9
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 18:12:38 2024 +0000
+
+    Update h2 in main of See Play Stage pages to relevant content
+
+commit 9fe8f92bbb1a25f877a8530bc2ba7601890c7842
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 18:10:34 2024 +0000
+
+    Add placeholder content to main of See Play and Stay pages
+
+commit 30576b571f3e6f31bd3bb533eec3c9af6c221fea
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 18:06:43 2024 +0000
+
+    Wrap content description at page top in div, add additional content and styled
+
+commit 38088955ab0e2183c6049888f5645f335a38501e
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 17:16:50 2024 +0000
+
+    Update links in content with descriptive text, remove price
+
+commit 90a1aa931878543b302b82b98432d08e226975c2
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 17:13:17 2024 +0000
+
+    Update styling for main content to make it responsive
+
+commit 5c0aeb7ba3382b569f10115a1dc997ab82027613
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 16:45:45 2024 +0000
+
+    add bottom and top margin to main content
+
+commit 5403e55626bfcd432f0a4ede0fcd482c6fee819c
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 16:29:07 2024 +0000
+
+    Update background color for content and main
+
+commit a9e58f0227f9740d7af3b306aa4eff4252fb7e89
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 16:15:13 2024 +0000
+
+    Updated image file used in content to be appropriately sized
+
+commit 75245538ccd6be8e6ea62b2349e4ceed11c46395
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 14:33:54 2024 +0000
+
+    Update spelling of aria for anchor tags due to w3c error, updated for all pages
+
+commit 8d03823885e2291a590ebb3c76d0d70615ed9476
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 14:05:27 2024 +0000
+
+    Updated styling to make main content responsive
+
+commit c5a5e7cfda430f453943923b60383a769abfd0a0
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 13:59:11 2024 +0000
+
+    Duplicated content x4 to style further, content to be updated
+
+commit c8430e7f4c5995e1f0785207864dd1446da3225d
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Wed Jan 17 13:46:10 2024 +0000
+
+    Add content to see page, add basic styling to content
+
 commit 0b68485c32dc2864ed0f946cc2d0ed83acc0d577
 Author: eakoc <>
 Date:   Wed Jan 17 12:48:43 2024 +0000

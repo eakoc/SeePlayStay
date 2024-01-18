@@ -281,6 +281,10 @@ footer {
         width: 300px;
     }
 
+    #hero-text {
+        width: 50%;
+    }
+
 }
 
 /* Media query: laptops and larger (992px and up) */

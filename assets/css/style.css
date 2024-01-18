@@ -192,6 +192,10 @@ p {
     text-decoration:none;
 }
 
+.content-description>h2 {
+    padding: 20px 0 0 0;
+}
+
 
 /* Feedback Form */
 

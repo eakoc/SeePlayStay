@@ -188,7 +188,7 @@ p {
     border-radius:6px;
     border:1px solid #dcdcdc;
     display:inline-block;
-    color:#FFFFFF;
+    color:#3a3a3a;
     text-decoration:none;
 }
 
@@ -207,6 +207,12 @@ footer {
     color: #FFFFFF;
 }
 
+.map-media-wrapper {
+    display: flex;
+}
+
+
+
 .social-media {
     display: flex;
     justify-content: space-evenly;
@@ -221,6 +227,12 @@ footer {
 
 .map-wrapper {
     display: none;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.contact-us {
+    justify-content: flex-end;
 }
 
 /* Media query: Medium sized mobile phones (375px and up) */
@@ -247,7 +259,7 @@ footer {
     }
         
     .map {
-        width: 50%;
+        width: 100%;
         height: 200px;
     }
 

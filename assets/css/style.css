@@ -179,9 +179,17 @@ p {
 
 #about-us-content>p {
     padding-left: 20px;
+    padding-right: 20px;
 }
 
-
+.about-button {
+    background-color:#63BAAB;
+    border-radius:6px;
+    border:1px solid #dcdcdc;
+    display:inline-block;
+    color:#FFFFFF;
+    text-decoration:none;
+}
 
 
 /* Feedback Form */
@@ -262,6 +270,10 @@ footer {
 @media screen and (min-width: 992px) {
     #nav-menu a:hover {
         border-bottom: 1px solid #FFFFFF;
+    }
+
+    .about-button:hover {
+        background-color: #4C8077;
     }
 }
 

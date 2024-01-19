@@ -134,6 +134,9 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 * [GitPod:](https://www.gitpod.io/)
     * GitPod was used for the remaining 75% of the development process.
 
+* [favicon.io](https://favicon.io/emoji-favicons/video-game/) 
+    * This resource used to generate Favicon for website.
+
 ### Languages
 * [CSS3:](https://en.wikipedia.org/wiki/CSS)
 * [HTML5:](https://en.wikipedia.org/wiki/HTML5)
@@ -159,9 +162,17 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 
 ## Testing
 
+W3C Markup Validator and CSS Validotor Services were used to validate each page of the project to ensure it follows formatting standards.
+
+* W#C Markup Validator:
+    * [Home Page Results](perplexity.ai)
+    * [See Page Results](perplexity.ai)
+    * [Play Page Results](perplexity.ai)
+    * [Stay Page Results](perplexity.ai)
+    * [Form Page Results](perplexity.ai)
+
 ## Deployment
 
 ## Bugs
 
-## Resources Used
-[favicon.io](https://favicon.io/emoji-favicons/video-game/) used to generate Favicon for website.
+

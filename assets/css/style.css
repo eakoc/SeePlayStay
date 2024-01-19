@@ -255,8 +255,6 @@ footer {
     display: flex;
 }
 
-
-
 .social-media {
     display: flex;
     justify-content: space-evenly;
@@ -293,7 +291,6 @@ footer {
         margin-top: 49px;
     }
 }
-
 
 /* Media query: Large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {

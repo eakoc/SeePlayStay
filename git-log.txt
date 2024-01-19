@@ -1,3 +1,87 @@
+commit 1b49d808dd9ffac55d37f0196775d383a90e03f8
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 10:25:30 2024 +0000
+
+    Final changes to readme
+
+commit 65b07002d8b62c4178c26352e9117fee748975d1
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 10:23:04 2024 +0000
+
+    Update spelling mistakes, final spell check
+
+commit 5c5c0d634668e08fa3441f4aa7c113d557082bdc
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 10:19:40 2024 +0000
+
+    Update broken google fonts link in README
+
+commit af502c7eab55659a0aac91388aab354b9c0cf57c
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 10:17:24 2024 +0000
+
+    Add additional changes to readme
+
+commit 300fe7d9ed04ce014baf499fdfa1b34f227cf4c6
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 09:32:49 2024 +0000
+
+    Update readme, update CSS to pass Jigsaw validation
+
+commit 730e9e86e18d4f8ca27d2e6188f6cf175fa5188f
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 09:17:49 2024 +0000
+
+    Final changes made to all pages to comply with W3C Valudation Html
+
+commit 0b90cfe4b1d1337c159b259fc5fc8fac08bec643
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 01:42:57 2024 +0000
+
+    hidden heading added to section in footer per w3 validator, targeted in CSS
+
+commit b63138af6a50d067a0985e5188e24bb57d180d85
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 01:40:51 2024 +0000
+
+    updated spelling error of aria-label on home page. Additional content added to readme
+
+commit 7e90a61a8083dd87fea7e49429d4fbba3ab40b55
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 01:19:34 2024 +0000
+
+    Content added to README
+
+commit f78d21ef55da6160130c6473c6fd6e230c54c924
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Fri Jan 19 00:01:49 2024 +0000
+
+    fix: incorrect links updated on play page
+
+commit 71c5c968e7e6c90c78abb8e1cae2c8a8f12067a2
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 23:57:06 2024 +0000
+
+    Add final styling to form for 768 media query, remove un-used media query
+
+commit 6667321e72f1758785318adba71f4ee840ee8d38
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 23:50:46 2024 +0000
+
+    Add final content to see play and stay pages, replaced placeholder content on stay page
+
+commit 3fc032513eee922bb5baa6f9f37a981322fc8769
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 23:31:16 2024 +0000
+
+    Update spelling mistakes in content
+
+commit 3a4bdec2ce4134eac638309ffffa760a49af57f1
+Author: Evan O'Connor <evanoconnor62@gmail.com>
+Date:   Thu Jan 18 23:26:03 2024 +0000
+
+    Update image for Xperion on Play page
+
 commit 6291baab00db58b601ac9862baed9b9ce7eb6315
 Author: Evan O'Connor <evanoconnor62@gmail.com>
 Date:   Thu Jan 18 22:45:12 2024 +0000

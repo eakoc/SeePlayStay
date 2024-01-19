@@ -175,6 +175,9 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
     * [MDN Web Docs](https://developer.mozilla.org/en-US/)
     * [W3 Schools](https://www.w3schools.com/)
 
+* Inspiration was taken from the CodeInstitute "Love-Running" project walkthrough for the nav-bar and burger icon.
+    * [Code Institute](https://learn.codeinstitute.net/)
+
 ### Colors
 * [ColorSpace](https://mycolor.space/) was used to generate a basic color palette.
 * [RGBA Color Picker](https://rgbacolorpicker.com/hex-to-rgba) was used to convert hex colors to rgba where needed.

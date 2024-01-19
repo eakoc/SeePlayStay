@@ -137,7 +137,7 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 * [Font Awesome:](https://fontawesome.com/)
     * Font Awesome was used for Icons in the footer, along with the navigation Burger Icon and the heading located in the form.
 
-* [Google Fonts:](https://fontawesome.com/)
+* [Google Fonts:](https://fonts.google.com/)
     * Google fonts was used to import the "Roboto" font used throughout the website.
 
 * [Git:](https://git-scm.com/)

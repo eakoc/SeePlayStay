@@ -164,12 +164,23 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 
 W3C Markup Validator and CSS Validotor Services were used to validate each page of the project to ensure it follows formatting standards.
 
-* W#C Markup Validator:
-    * [Home Page Results](perplexity.ai)
-    * [See Page Results](perplexity.ai)
-    * [Play Page Results](perplexity.ai)
-    * [Stay Page Results](perplexity.ai)
-    * [Form Page Results](perplexity.ai)
+* [W3C Markup Validator](https://validator.w3.org/)
+    * ![Home Page Results](assets/images/Validator-Home.png)
+        * Home Page Results
+
+    * ![See Page Results](assets/images/Validator-See.png)   
+        * See Page Results
+
+    * ![Play Page Results](assets/images/Validator-Play.png)
+        * Play Page Results
+
+    * ![Stay Page Results](assets/images/Validator-Stay.png)
+        * Stay Page Results
+
+    * ![Form Page Results](assets/images/Validator-Feedback.png)
+        * Form Page Results
+
+* 
 
 ## Deployment
 

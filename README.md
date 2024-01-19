@@ -94,7 +94,6 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 * This is the Google maps embed section to show the location of the business location. There is currently a bug causing the map to lose its controls. The controls were available and functioning but during an unknown iteration the map lost these controls and I have not yet been able to resolve this.
 
 ### Nav Menu (Large devices and Desktop)
-
 * Two versions of the Navbar are available on the website. A full sized nav-bar displayed on larger devices, and a hidden nav-bar displayed on smaller devices that can be expanded by clicking the burger icon.
 
 #### Full Sized Nav
@@ -129,13 +128,34 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 * [GitHub:](http://github.com/)
     * GitHub is used to store the project code, images, styling and additional files.
 
-### Languages
+* [Codeanywhere:](https://codeanywhere.com/solutions/collaborate)
+    * Codeanywhere was used initially for the creation of the website. This was used for approximately the first 25% of the project at which point I had to switch IDE due to a number of issues with the service.
 
+* [GitPod:](https://www.gitpod.io/)
+    * GitPod was used for the remaining 75% of the development process.
+
+### Languages
 * [CSS3:](https://en.wikipedia.org/wiki/CSS)
 * [HTML5:](https://en.wikipedia.org/wiki/HTML5)
 
 
 ## Credit/Sources
+* There were a number of sources and online resources used during the creation of this project. Ranging from royalty free images to Stack-Overflow for guides and assistance with features.
+
+### Images
+* All images used were obtained from [Pexels:](https://www.pexels.com/)
+* In the case of the form Background Image, the original image was obtained from pexels (Orange and Yellow) and was then re-colored by my partner Charly, using photoshop. She does not have an art or professional social media page or website to link for credit.
+
+### Information Sources
+* A number of sources were used while creating this website:
+    * [Perplexity](perplexity.ai)
+    * [Stack Overflow](https://stackoverflow.com/)
+    * [MDN Web Docs](https://developer.mozilla.org/en-US/)
+    * [W3 Schools](https://www.w3schools.com/)
+
+### Colors
+* [ColorSpace](https://mycolor.space/) was used to generate a basic color palette.
+* [RGBA Color Picker](https://rgbacolorpicker.com/hex-to-rgba) was used to convert hex colors to rgba where needed.
 
 ## Testing
 

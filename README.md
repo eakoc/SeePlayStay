@@ -88,6 +88,7 @@ The purpose of See - Play - Stay was to create a travel website for gamers. In t
 
 ### Google-Maps
 * A Google Maps embed is located in the Footer of each page displaying the business location.
+* It is intended behavior that the map-embed does not appear on devices with a width of less than 576px as in my opinion it caused the footer to appear cluttered.
 
 ## Features
 
